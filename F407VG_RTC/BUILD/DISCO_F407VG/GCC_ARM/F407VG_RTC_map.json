@@ -1,0 +1,96 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 8, 
+            ".bss": 23, 
+            ".text": 161
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2572, 
+            ".bss": 127, 
+            ".text": 38607
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3272
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 136, 
+            ".text": 215
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 100, 
+            ".text": 1139
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12556, 
+            ".text": 44
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1561
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 276, 
+            ".bss": 145, 
+            ".text": 4317
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6065, 
+            ".text": 10613
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 4, 
+            ".bss": 544, 
+            ".text": 8985
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 22844, 
+            "total_flash": 72174
+        }
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "module": "ExtraSerial\\Buffer", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 86
+        }
+    }, 
+    {
+        "module": "ExtraSerial\\BufferedSerial", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1004
+        }
+    }, 
+    {
+        "module": "ExtraSerial\\ModbusMaster", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 986
+        }
+    }, 
+    {
+        "module": "MQTT\\MQTTPacket", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 1824
+        }
+    }, 
+    {
+        "module": "SPI_TFT_ILI9341\\GraphicsDisplay.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1398
+        }
+    }, 
+    {
+        "module": "SPI_TFT_ILI9341\\SPI_TFT_ILI9341.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2436
+        }
+    }, 
+    {
+        "module": "SPI_TFT_ILI9341\\TextDisplay.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 538
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 7, 
+            ".bss": 49, 
+            ".text": 319
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 42231
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3336
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 12, 
+            ".bss": 2436, 
+            ".text": 7023
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 144, 
+            ".text": 2127
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 164, 
+            ".bss": 46972, 
+            ".text": 45584
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1561
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 260, 
+            ".bss": 105, 
+            ".text": 3807
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6065, 
+            ".text": 14249
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 5, 
+            ".bss": 784, 
+            ".text": 12940
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 59852, 
+            "total_flash": 144765
+        }
+    }
+]

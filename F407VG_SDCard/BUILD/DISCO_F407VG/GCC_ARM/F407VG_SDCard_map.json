@@ -1,0 +1,104 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 7, 
+            ".bss": 26, 
+            ".text": 212
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2572, 
+            ".bss": 127, 
+            ".text": 36487
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3272
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 588, 
+            ".text": 1102
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 144, 
+            ".text": 2075
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12888, 
+            ".text": 16499
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1561
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 276, 
+            ".bss": 402, 
+            ".text": 4604
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6065, 
+            ".text": 10613
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 5, 
+            ".bss": 816, 
+            ".text": 12013
+        }
+    }, 
+    {
+        "module": "sd-driver\\SDBlockDevice.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 4509
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 24204, 
+            "total_flash": 96207
+        }
+    }
+]

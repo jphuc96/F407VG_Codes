@@ -1,0 +1,104 @@
+[
+    {
+        "module": "MQTT\\MQTTPacket", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 1824
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 4, 
+            ".bss": 49, 
+            ".text": 265
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 41383
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3336
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 16, 
+            ".bss": 312, 
+            ".text": 3257
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 100, 
+            ".text": 1489
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 164, 
+            ".bss": 46972, 
+            ".text": 45562
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1561
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 260, 
+            ".bss": 105, 
+            ".text": 3684
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6065, 
+            ".text": 12927
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 4, 
+            ".bss": 544, 
+            ".text": 9724
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 57444, 
+            "total_flash": 128328
+        }
+    }
+]

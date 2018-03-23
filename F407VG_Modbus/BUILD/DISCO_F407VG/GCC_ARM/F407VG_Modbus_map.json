@@ -1,0 +1,120 @@
+[
+    {
+        "module": "ExtraSerial\\Buffer", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 86
+        }
+    }, 
+    {
+        "module": "ExtraSerial\\BufferedSerial", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1044
+        }
+    }, 
+    {
+        "module": "ExtraSerial\\ModbusMaster", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 992
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 3, 
+            ".bss": 17, 
+            ".text": 135
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 27977
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3112
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 1212, 
+            ".text": 781
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 100, 
+            ".text": 1699
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12556, 
+            ".text": 66
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1561
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 260, 
+            ".bss": 105, 
+            ".text": 3690
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6065, 
+            ".text": 12243
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 5, 
+            ".bss": 824, 
+            ".text": 7027
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 23996, 
+            "total_flash": 63553
+        }
+    }
+]

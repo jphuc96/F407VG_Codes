@@ -1,0 +1,128 @@
+[
+    {
+        "module": "MyTouch\\MyTouch.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 274
+        }
+    }, 
+    {
+        "module": "SPI_TFT_ILI9341\\GraphicsDisplay.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1398
+        }
+    }, 
+    {
+        "module": "SPI_TFT_ILI9341\\SPI_TFT_ILI9341.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2652
+        }
+    }, 
+    {
+        "module": "SPI_TFT_ILI9341\\TextDisplay.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 538
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 3, 
+            ".bss": 13, 
+            ".text": 134
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 28713
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3112
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 820, 
+            ".text": 2944
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 144, 
+            ".text": 2028
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12556, 
+            ".text": 44
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1605
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 260, 
+            ".bss": 105, 
+            ".text": 3722
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6065, 
+            ".text": 10585
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 5, 
+            ".bss": 1320, 
+            ".text": 11240
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 24140, 
+            "total_flash": 72129
+        }
+    }
+]
