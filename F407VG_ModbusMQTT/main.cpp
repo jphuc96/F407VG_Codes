@@ -209,3 +209,4 @@ void TFT_Init()
     TFT.set_orientation(3);
     TFT.locate(0,0);
 }
+//end
