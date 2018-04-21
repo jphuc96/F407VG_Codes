@@ -1,0 +1,1 @@
+"-I." "-I./SPI_TFT_ILI9341" "-I./TFT_fonts" "-ID:/Senior_Project/F407VG_Codes/F407VG_ModbusMQTT/.temp/BUILD" "-ID:/Senior_Project/F407VG_Codes/F407VG_ModbusMQTT/.temp/features/unsupported/tests/mbed"

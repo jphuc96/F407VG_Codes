@@ -821,7 +821,9 @@
                     "${workspaceRoot}/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/*",
                     "${workspaceRoot}/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch/*"
                 ]
-            }
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
         }
     ],
     "version": 3
